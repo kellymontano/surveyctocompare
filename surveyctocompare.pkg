@@ -1,1 +1,6 @@
-surveyctocompare.ado
+v 1.0
+d surveyctocompare - compare two SurveyCTO XLSForms and create a formatted Excel dashboard
+d Kelly Montaño
+d Innovations for Poverty Action (IPA)
+d Distribution-Date: 20240606
+f surveyctocompare.ado
