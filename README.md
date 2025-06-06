@@ -16,6 +16,7 @@ To install the latest version using the `github` package by E. F. Haghish:
 
 ```stata
 net install github, from("https://haghish.github.io/github/")
+
 github install kellymontano/surveyctocompare
 ```
 
