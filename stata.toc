@@ -1,2 +1,4 @@
-*! 1.0 surveyctocompare
-surveyctocompare
+v 3
+d surveyctocompare - compare two SurveyCTO XLSForms and generate a formatted Excel dashboard
+d Kelly Montaño, Innovations for Poverty Action
+p surveyctocompare
